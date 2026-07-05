@@ -1,0 +1,4 @@
+load the image 
+convert the grayscale 
+show  the image 
+and save also 
