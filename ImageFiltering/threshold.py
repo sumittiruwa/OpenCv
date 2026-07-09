@@ -10,3 +10,9 @@ cv2.imshow("after", thres_img)
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+"""
+90-0 = bllack
+130-255 = white
+180- 255 = white
+50-0 = black"""
